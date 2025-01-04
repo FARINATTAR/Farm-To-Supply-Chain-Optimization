@@ -26,7 +26,7 @@ https://github.com/FARINATTAR/Farm-To-Supply-Chain-Optimization.git
 
 ### 2. Navigate to the Project Directory
 ```bash
-cd farm-to-table-supply-chain
+cd Farm-To-Supply-Chain-Optimization
 ```
 
 ### 3. Install Dependencies
@@ -38,28 +38,7 @@ npm install
 ### 4. Start the Development Server
 Start the application locally:
 ```bash
-npm start
+npm run dev
 ```
-This will open the app in your browser at `http://localhost:3000`.
-
-## Contributing
-
-We welcome contributions to improve the project! If you'd like to contribute, please follow these steps:
-
-1. **Fork the repository** to your own GitHub account.
-2. **Create a new branch**:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. **Make your changes** in the new branch.
-4. **Commit your changes**:
-   ```bash
-   git commit -am 'Add new feature'
-   ```
-5. **Push to your fork**:
-   ```bash
-   git push origin feature-name
-   ```
-6. **Create a pull request** to the main repository.
 
 
