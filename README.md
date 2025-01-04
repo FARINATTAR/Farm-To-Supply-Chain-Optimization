@@ -21,7 +21,7 @@ To run this project locally, follow the steps below:
 ### 1. Clone the Repository
 Clone this repository to your local machine using Git:
 ```bash
-git clone https://github.com/your-username/farm-to-table-supply-chain.git
+https://github.com/FARINATTAR/Farm-To-Supply-Chain-Optimization.git
 ```
 
 ### 2. Navigate to the Project Directory
